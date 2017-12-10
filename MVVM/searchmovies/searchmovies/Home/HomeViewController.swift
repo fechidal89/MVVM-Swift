@@ -7,11 +7,10 @@
 //
 
 import UIKit
+import Foundation
+
 
 class HomeViewController: UIViewController {
-
-    //MARK: properties
-   
     
     //MARK: methods
     
